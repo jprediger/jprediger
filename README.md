@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Hi there!
+I'm a Software Engineering student at Univates University in Lajeado, RS, with a technical degree in Industrial Automation from IFSUL – Câmpus Lajeado.
+Currently working as a Junior Developer at Supernova Digital.
 
-<!--
-**jprediger/jprediger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 Stacks:
+- Languages: Python, JavaScript, TypeScript, Java
+- Frameworks & Libraries: React, Vue.js
+- Cloud: Experience with the AWS ecosystem
+- Development: Building RESTful APIs, Web Applications and AI-driven solutions
 
-Here are some ideas to get you started:
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jprediger&layout=compact&theme=github_dark)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Currently Learning
+- Clean Architecture and Design Patterns
+- Advanced TypeScript and Node.js
+- AI frameworks like TensorFlow and PyTorch
+
+- ## 📫 How to reach me
+- LinkedIn: https://www.linkedin.com/in/jo%C3%A3o-pedro-schneider-prediger-b7517b1a1/
+- Email: joaopprediger@gmail.com
+- Portfolio: Not yet
