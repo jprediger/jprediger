@@ -1,6 +1,6 @@
 # 👋 Hi there!
 I'm a Software Engineering student at Univates University in Lajeado, RS, with a technical degree in Industrial Automation from IFSUL – Câmpus Lajeado.
-Currently working as a Junior Developer at Supernova Digital.
+Currently working as Fullstack Developer at Supernova Digital.
 
 ## 💻 Stacks:
 - Languages: Python, JavaScript, TypeScript, Java
